@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Gework Wardanian 👋
 
 <!--
 **gework7/gework7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
